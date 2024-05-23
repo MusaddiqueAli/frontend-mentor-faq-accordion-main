@@ -48,7 +48,7 @@ button:hover {
     color: var(--purple);
 }
 
-.container {
+main {
     background-color: var(--white);
     max-width: 550px;
     padding: 1.5rem;
